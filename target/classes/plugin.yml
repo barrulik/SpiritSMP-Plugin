@@ -1,0 +1,11 @@
+name: SpiritSMP_By_Barrulik
+version: '1.5'
+main: me.barrulik.spiritsmp.SpiritSMP
+api-version: 1.18
+prefix: SPIRITSMP
+authors: [ Barrulik ]
+description: SpiritSMP's
+commands:
+  rasputin:
+    description: Ra ra rasputin
+    usage: /<command>
